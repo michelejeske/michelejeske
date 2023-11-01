@@ -1,16 +1,47 @@
-### Hi there 👋
+<img align="left" width="370px" height="420px" src="https://github.com/michelejeske/michelejeske/assets/146946495/9e04c299-e5cb-4ec2-b24a-ba34cf4235c5">
 
-<!--
-**michelejeske/michelejeske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, me chamo Michele. Atualmente estou fazendo um curso de Programação Web Full-Stack no IOS.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo:
+![image](https://github.com/michelejeske/michelejeske/assets/146946495/affebf55-80c5-4162-b13e-55a19dc6aa51)
+![image](https://github.com/michelejeske/michelejeske/assets/146946495/15a89956-f83d-42e6-8d74-f6caf238eb59)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encontre-me:
+![image](https://github.com/michelejeske/michelejeske/assets/146946495/cbf303e2-9ce2-4f0a-833d-faf76b7ba2b0)
+
+</img>
+
+<div align="center">
+
+  
+ <a href="https://github.com/MarquinCss/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelejeske&layout=compact&theme=dark&hide_border=true" /></a> 
+
+
+
+
+
+</img>
+
+</div>
+
+<br> <br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+ 
+  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+</p>
+
+<p align="left">
+</p>
+
+  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+
+
+<p align="left">
