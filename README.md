@@ -34,13 +34,13 @@ Bem vindos ao meu perfil, me chamo Michele e possuo 18 anos. Atualmente estou cu
 
 <p align="left">
  
-  Meu objetivo depois do Ensino Médio é cursar Psicologia, um dos cursos que sempre me chamou a atenção.
+  Meu objetivo depois do Ensino Médio é cursar Psicologia, um dos cursos que sempre me chamou atenção.
 </p>
 
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  
 
 
 <p align="left">
