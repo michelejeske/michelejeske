@@ -1,6 +1,6 @@
 <img align="left" width="370px" height="420px" src="https://github.com/michelejeske/michelejeske/assets/146946495/9e04c299-e5cb-4ec2-b24a-ba34cf4235c5">
 
-## Olá, me chamo Michele. Atualmente estou fazendo um curso de Programação Web Full-Stack no IOS.
+## Olá, me chamo Michele. E Atualmente estou fazendo um curso de Programação Web Full-Stack no IOS.
 
 ## Tecnologias que estou aprendendo:
 ![image](https://github.com/michelejeske/michelejeske/assets/146946495/affebf55-80c5-4162-b13e-55a19dc6aa51)
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Me chamo Michele e possuo 18 anos. Atualmente estou cursando o último ano do ensino médio.
+Bem vindos ao meu perfil, me chamo Michele e possuo 18 anos. Atualmente estou cursando o último ano do ensino médio.
 </p>
 
 <p align="left">
